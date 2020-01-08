@@ -26,3 +26,7 @@ A collection of design tools and references that I use regularly.
 ## News & Articles
 
 - Web Design News & Tips ([source](https://www.webdesignernews.com/))
+
+## Fun
+
+- Certify a Hex Code ([source](https://kolormark.com/))
