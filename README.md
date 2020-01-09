@@ -22,6 +22,8 @@ A collection of design tools and references that I use regularly.
 - Dribbble: 7 Tools for Creating UI Color Palettes ([source](https://dribbble.com/stories/2019/10/25/7-ui-tools-for-better-color-palettes?ref=webdesignernews.com))
 - Tips for Color in Design Systems ([source](https://medium.com/eightshapes-llc/color-in-design-systems-a1c80f65fa3))
 - 12 Design System Examples ([source](https://medium.com/@siw_grinaker/top-12-design-systems-b598368be5a6))
+- CSS Flex Visual Cheat Sheet ([source](http://flexbox.malven.co/))
+- CSS Grid Visual Cheat Sheet ([source](http://grid.malven.co/))
 
 ## News & Articles
 
