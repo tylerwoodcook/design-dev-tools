@@ -64,3 +64,7 @@ A collection of tools and references related to **design & development** that I 
 #### Fun
 
 - Certify a Hex Code ([source](https://kolormark.com/))
+
+---
+
+Check out my work [here](https://www.linepup.com)
