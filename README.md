@@ -1,4 +1,4 @@
-## AWESOME TOOLS & REFERENCES
+## Design Tools & References
 
 A collection of tools and references related to **design & development** that I use regularly.
 
