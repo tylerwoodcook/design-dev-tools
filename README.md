@@ -67,4 +67,4 @@ A collection of tools and references related to **design & development** that I 
 
 ---
 
-![alt text](https://www.linepup.com/favicon-16x16.png "Linepup Design Co.") Check out my work [here](https://www.linepup.com)
+### ![alt text](https://www.linepup.com/favicon-32x32.png "Linepup Design Co.") Check out my work [here](https://www.linepup.com)
