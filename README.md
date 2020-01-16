@@ -1,8 +1,8 @@
-# Awesome Tools & References
+# 📝 AWESOME TOOLS & REFERENCES
 
 A collection of tools and references related to **design & development** that I use regularly.
 
-## ONLINE TOOLS
+## 🛠️ TOOLS
 
 ### Project Management
 
@@ -33,7 +33,7 @@ A collection of tools and references related to **design & development** that I 
 - TinyPNG: PNG and JPEG Compression ([source](https://tinypng.com/))
 - Get Emoji: Emoji Copy & Paste ([source](https://getemoji.com/))
 
-## REFERENCE MATERIALS
+## 📚 REFERENCES
 
 ### Graphic Design
 
