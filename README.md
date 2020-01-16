@@ -2,6 +2,8 @@
 
 A collection of tools and references related to **design & development** that I use regularly.
 
+---
+
 ### 🛠️ TOOLS
 
 #### Project Management
@@ -32,6 +34,8 @@ A collection of tools and references related to **design & development** that I 
 - Material Design Icons ([source](https://material.io/resources/icons/?style=baseline))
 - TinyPNG: PNG and JPEG Compression ([source](https://tinypng.com/))
 - Get Emoji: Emoji Copy & Paste ([source](https://getemoji.com/))
+
+---
 
 ### 📚 REFERENCES
 
