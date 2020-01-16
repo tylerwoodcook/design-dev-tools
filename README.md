@@ -1,6 +1,6 @@
-# Awesome Tools & References for Design/Development
+# Awesome Tools & References
 
-A collection of design & development tools and references that I use regularly.
+A collection of tools and references related to **design & development** that I use regularly.
 
 ## ONLINE TOOLS
 
