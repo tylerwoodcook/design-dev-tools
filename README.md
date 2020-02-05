@@ -2,6 +2,22 @@
 
 A collection of tools and references related to **design & development** that I use regularly.
 
+#### SPECIAL CHARACTERS
+
+| NAME | SYMBOL |
+| --- | --- |
+| Trade Mark | `™` |
+| Registered | `®` |
+| Bullet | `•` |
+| Bullet 2 | `∘` |
+| En Dash | `–` |
+| Em Dash | `—` |
+| Box | `☐` |
+| Checked | `☒` |
+| Outlined Star | `☆` |
+| Filled Star | `★` |
+
+
 ---
 
 ### 🛠️ TOOLS
