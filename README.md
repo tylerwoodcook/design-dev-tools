@@ -4,14 +4,15 @@ A collection of tools and references related to **design & development** that I 
 
 #### SPECIAL CHARACTERS
 
-| NAME | SYMBOL |
-| --- | --- |
-| Trade Mark | `™` |
-| Registered | `®` |
-| Bullet | `•` |
+| NAME | SYMBOL | ALT |
+| --- | --- | --- |
+| Trade Mark | `™` | `alt + 0153` |
+| Registered | `®` | `alt + 0174` |
+| Copyright | `©` | `alt + 0169` |
+| Bullet | `•` | `alt + 0149` | 
 | Bullet 2 | `∘` |
-| En Dash | `–` |
-| Em Dash | `—` |
+| En Dash | `–` | `alt + 0150` |
+| Em Dash | `—` | 
 | Box | `☐` |
 | Checked | `☒` |
 | Outlined Star | `☆` |
