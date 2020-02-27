@@ -69,7 +69,7 @@ A collection of tools and references related to **design & development** that I 
 - Dribbble: 7 Tools for Creating UI Color Palettes ([source](https://dribbble.com/stories/2019/10/25/7-ui-tools-for-better-color-palettes?ref=webdesignernews.com))
 - Laws of UX ([source](https://lawsofux.com/))
 - 7 Requirements of a Holistic Design System ([source](https://blog.marvelapp.com/holistic-design-system/?ref=webdesignernews.com))
-- Feedback: Notifications vs Alerts ([source](https://ux.stackexchange.com/questions/91406/what-is-the-difference-between-alert-notification-banner-and-toast-message)
+- Feedback: Notifications vs Alerts ([source](https://ux.stackexchange.com/questions/91406/what-is-the-difference-between-alert-notification-banner-and-toast-message))
 
 #### CSS
 
