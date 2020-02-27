@@ -51,6 +51,7 @@ A collection of tools and references related to **design & development** that I 
 - Material Design Icons ([source](https://material.io/resources/icons/?style=baseline))
 - TinyPNG: PNG and JPEG Compression ([source](https://tinypng.com/))
 - Get Emoji: Emoji Copy & Paste ([source](https://getemoji.com/))
+- Creating an Icon Font ([source](https://mediatemple.net/blog/tips/creating-implementing-icon-font-tutorial/))
 
 ---
 
