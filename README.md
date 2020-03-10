@@ -77,6 +77,10 @@ A collection of tools and references related to **design & development** that I 
 - CSS Grid Visual Cheat Sheet ([source](http://grid.malven.co/))
 - List of CSS Properties ([source](https://www.tutorialrepublic.com/css-reference/css3-properties.php))
 
+#### Development
+
+- Installatron Website Applications ([source](https://installatron.com/apps))
+
 #### News & Articles
 
 - Web Design News & Tips ([source](https://www.webdesignernews.com/))
