@@ -81,6 +81,7 @@ A collection of tools and references related to **design & development** that I 
 #### Development
 
 - Installatron: Hostable Web Apps ([source](https://installatron.com/apps))
+- Softaculous: One click download web apps ([source](https://softaculous.com/apps))
 
 #### News & Articles
 
