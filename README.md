@@ -79,7 +79,7 @@ A collection of tools and references related to **design & development** that I 
 
 #### Development
 
-- Installatron Website Applications ([source](https://installatron.com/apps))
+- Installatron: Hostable Web Apps ([source](https://installatron.com/apps))
 
 #### News & Articles
 
