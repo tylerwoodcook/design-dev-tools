@@ -2,7 +2,7 @@
 
 A collection of tools and references related to **design & development** that I use regularly.
 
-#### SPECIAL CHARACTERS
+#### Special Characters
 
 | NAME | SYMBOL | ALT |
 | --- | --- | --- |
@@ -18,6 +18,14 @@ A collection of tools and references related to **design & development** that I 
 | Outlined Star | `☆` |
 | Filled Star | `★` |
 
+#### Hard Refresh Browsers (Clear Page Cache)
+
+| BROWSER | WINDOWS | MAC |
+| --- | --- | --- |
+| Chrome | `ctrl` + `F5` | `Cmd` + `Shift` + `R` |
+| Firefox | `ctrl` + `F5` | `Cmd` + `Shift` + `R` |
+| Edge | `ctrl` + `F5` | - |
+| Safari | - | `Option` + `Cmd` + `E` |
 
 ---
 
