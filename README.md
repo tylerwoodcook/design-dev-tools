@@ -6,12 +6,12 @@ A collection of tools and references related to **design & development** that I 
 
 | NAME | SYMBOL | ALT |
 | --- | --- | --- |
-| Trade Mark | `™` | `alt + 0153` |
-| Registered | `®` | `alt + 0174` |
-| Copyright | `©` | `alt + 0169` |
-| Bullet | `•` | `alt + 0149` | 
+| Trade Mark | `™` | `alt` + `0153` |
+| Registered | `®` | `alt` + `0174` |
+| Copyright | `©` | `alt` + `0169` |
+| Bullet | `•` | `alt` + `0149` | 
 | Bullet 2 | `∘` |
-| En Dash | `–` | `alt + 0150` |
+| En Dash | `–` | `alt` + `0150` |
 | Em Dash | `—` | 
 | Box | `☐` |
 | Checked | `☒` |
