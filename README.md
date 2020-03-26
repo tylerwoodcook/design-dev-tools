@@ -37,8 +37,8 @@ A collection of tools and references related to **design & development** that I 
 
 #### Notes & Text Editors
 
+- Notion: Best Note Taking for Developers & Designers ([source](https://www.notion.so/?r=19b74847b7c04323990b50aa249083fc))
 - StackEdit for Markdown Notes ([source](https://stackedit.io/app#))
-- OneNote for Meetings and Teams ([source](https://www.onenote.com))
 - GitHub for Repos and Syncing Folders ([source](https://www.github.com))
 - CodePen ([source](https://codepen.io/))
 
