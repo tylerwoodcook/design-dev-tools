@@ -95,7 +95,9 @@ A collection of tools and references related to **design & development** that I 
 
 - Web Design News & Tips ([source](https://www.webdesignernews.com/))
 
-### Fun
+---
+
+### 😬 Fun
 
 #### Designy Stuff
 
