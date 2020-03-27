@@ -97,7 +97,7 @@ A collection of tools and references related to **design & development** that I 
 
 ---
 
-### 😬 Fun
+### 😬 OTHER STUFF
 
 #### Designy Stuff
 
