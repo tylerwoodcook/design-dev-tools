@@ -95,9 +95,17 @@ A collection of tools and references related to **design & development** that I 
 
 - Web Design News & Tips ([source](https://www.webdesignernews.com/))
 
-#### Fun
+### Fun
+
+#### Designy Stuff
 
 - Certify a Hex Code ([source](https://kolormark.com/))
+
+#### Chrome Extensions
+
+- Audio Only YouTube: Limit Bandwidth Use and Just Stream Audio from YouTube Content ([source](https://chrome.google.com/webstore/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog/related?hl=en))
+
+
 
 ---
 
