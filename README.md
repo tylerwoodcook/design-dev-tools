@@ -90,6 +90,7 @@ A collection of tools and references related to **design & development** that I 
 
 - Installatron: Hostable Web Apps ([source](https://installatron.com/apps))
 - Softaculous: One click download web apps ([source](https://softaculous.com/apps))
+- Set Up Local WordPress Dev Environment with MAMP ([source](https://premium.wpmudev.org/blog/develop-wordpress-locally-mamp/))
 
 #### News & Articles
 
