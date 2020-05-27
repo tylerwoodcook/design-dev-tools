@@ -78,6 +78,7 @@ A collection of tools and references related to **design & development** that I 
 - Laws of UX ([source](https://lawsofux.com/))
 - 7 Requirements of a Holistic Design System ([source](https://blog.marvelapp.com/holistic-design-system/?ref=webdesignernews.com))
 - Feedback: Notifications vs Alerts ([source](https://ux.stackexchange.com/questions/91406/what-is-the-difference-between-alert-notification-banner-and-toast-message))
+- How Much is a Design System Worth? ([source](https://uxdesign.cc/how-much-is-a-design-system-worth-d72e2ededf76))
 
 #### CSS
 
