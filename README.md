@@ -88,6 +88,7 @@ A collection of tools and references related to **design & development** that I 
 - List of CSS Properties ([source](https://www.tutorialrepublic.com/css-reference/css3-properties.php))
 - CSS Gradient Animator ([source](https://www.gradient-animator.com/))
 - SASS to CSS Compiler Online ([source])(https://www.sassmeister.com/)
+- CSS Patterns ([source](https://bansal.io/pattern-css))
 
 #### Development
 
