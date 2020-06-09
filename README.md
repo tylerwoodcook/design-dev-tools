@@ -89,6 +89,7 @@ A collection of tools and references related to **design & development** that I 
 - CSS Gradient Animator ([source](https://www.gradient-animator.com/))
 - SASS to CSS Compiler Online ([source](https://www.sassmeister.com/)
 - CSS Patterns ([source](https://bansal.io/pattern-css))
+- Shape Divider App ([source](https://www.shapedivider.app/))
 
 #### Development
 
