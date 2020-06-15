@@ -60,6 +60,7 @@ A collection of tools and references related to **design & development** that I 
 - TinyPNG: PNG and JPEG Compression ([source](https://tinypng.com/))
 - Get Emoji: Emoji Copy & Paste ([source](https://getemoji.com/))
 - Creating an Icon Font ([source](https://mediatemple.net/blog/tips/creating-implementing-icon-font-tutorial/))
+- Encoding SVGs ([source](https://yoksel.github.io/url-encoder/))
 
 ---
 
