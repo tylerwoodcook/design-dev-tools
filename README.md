@@ -106,7 +106,7 @@ A collection of tools and references related to **design & development** that I 
 - [Duplicator](https://wordpress.org/plugins/duplicator/) for backing up and transfering site content
 - [Advanced Custom Fields](https://www.advancedcustomfields.com/) for creating custom field and meta data
 - [Auto Upload Images](https://wordpress.org/plugins/auto-upload-images/) for importing images from one site's blog posts to a new site. See [this blog post.](https://wordpress.stackexchange.com/questions/257180/how-to-import-wordpress-posts-with-images-from-one-wordpress-site-to-another)
-- [Media Library Folders](https://wordpress.org/plugins/media-library-plus/) to add folder structure to WP media library
+- [Media Library Folders](https://wordpress.org/plugins/media-library-plus/) OR [FileBird](https://wordpress.org/plugins/filebird/) to add folder structure to WP media library
 
 #### News & Articles
 
