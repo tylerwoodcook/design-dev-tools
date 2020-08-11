@@ -99,6 +99,9 @@ A collection of tools and references related to **design & development** that I 
 - Softaculous: One click download web apps ([source](https://softaculous.com/apps))
 - Set Up Local WordPress Dev Environment with MAMP ([source](https://premium.wpmudev.org/blog/develop-wordpress-locally-mamp/))
 
+#### WordPress
+- Export/Import blog posts from one WP site to another (with images!) ([source](https://wordpress.stackexchange.com/questions/257180/how-to-import-wordpress-posts-with-images-from-one-wordpress-site-to-another))
+
 #### News & Articles
 
 - Web Design News & Tips ([source](https://www.webdesignernews.com/))
