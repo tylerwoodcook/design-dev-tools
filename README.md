@@ -81,6 +81,7 @@ A collection of tools and references related to **design & development** that I 
 - 7 Requirements of a Holistic Design System ([source](https://blog.marvelapp.com/holistic-design-system/?ref=webdesignernews.com))
 - Feedback: Notifications vs Alerts ([source](https://ux.stackexchange.com/questions/91406/what-is-the-difference-between-alert-notification-banner-and-toast-message))
 - How Much is a Design System Worth? ([source](https://uxdesign.cc/how-much-is-a-design-system-worth-d72e2ededf76))
+- Wharton Full Brand Guide ([source](https://company-51807.frontify.com/d/EWFhKbT2J5mB/identity-kit#/visual-guide/design-system))
 
 #### CSS
 
